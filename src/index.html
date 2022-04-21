@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+  <title>Tic-Tac-Toe</title>
+</head>
+
+<body>
+  <main class="background">
+    <section class="title">
+      <h1>Tic-Tac-Toe</h1> <!-- 1. Add your page title between the h1 tags-->
+    </section>
+    <section class="display">
+      Player <span class="display-player playerX">X</span>'s turn
+      <!-- 2. Surround the X in the text above with a span tag with classes: display-player and playerX -->
+    </section>
+    <section class="container">
+      <!-- 
+        3. Insert 9 empty div tags with a class attribute of tile. 
+        Try typing: div.tile*9 then press TAB 
+      -->
+      <div class="tile"></div>
+      <div class="tile"></div>
+      <div class="tile"></div>
+      <div class="tile"></div>
+      <div class="tile"></div>
+      <div class="tile"></div>
+      <div class="tile"></div>
+      <div class="tile"></div>
+      <div class="tile"></div>
+    </section>
+    <!-- 
+      4. Insert a section tag with the classes: display; announcer; and hide
+      Try typing: section.display.announcer.hide and the pressing TAB
+    -->
+    <section class="display annoncer hide"></section>
+    <section class="display announcer hide"></section>
+    <section class="controls">
+      <!-- 
+        5. Insert a button with an id attribute of reset that displays the text Reset.  
+        Try typing: button#reset{Reset} and then pressing TAB
+      -->
+      <button id="reset">Reset</button>
+    </section>
+  </main>
+  <script src="./script.js"></script>
+</body>
+
+</html>
