@@ -224,3 +224,5 @@ resetButton.addEventListener(`click`, resetBoard);
 You should have a functional game in your window now!  If your game appears not to work, click on the `console` button in the bottom left of the screen.  If you can see red messages then this means that there are errors in the code you have typed.
 
 The working solution can be seen at this Pen [https://codepen.io/edwright75/pen/ExoMxYB](https://codepen.io/edwright75/pen/ExoMxYB). Opening this in a new tab and comparing your code to it may help debug your own code.  The error messages usually suggest a line number where the error has occurred.
+
+You can also find the solution code in the `src` folder of this repository.  You are able to **clone** and/or **download** this repository.
