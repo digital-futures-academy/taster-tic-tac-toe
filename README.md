@@ -15,7 +15,7 @@ The page needs some additional HTML code to complete the structure of the user i
 
 HTML uses elements to provide structure.  These are usually defined by **tags** that come in pairs (there are some exceptions to this rule though!). The structure can be annotated by adding **attributes** to the opening tag of a pair.  Common attributes are `id` and `class`.  These are often used to help style the elements.
 
-You will have 10 minutes to complete this with your pair partner.
+We recommend around 5 minutes to complete this activity.
 
 ### Working in the HTML Tab...
 
@@ -55,7 +55,7 @@ The ***declaration*** itself is split into 2 parts:
 
 ***Note:*** to select an element with a particular `id` attribute, start the selector with a `#` immediately followed by the value, so for any element with an `id` of `myElement` (e.g. `<div id="myElement"></div>`) use `#myElement`.
 
-You will have 10 minutes to complete this with your pair partner.  You may continue from the previous CodePen window.
+We recommend around 5 minutes to complete this activity.  You may continue from the previous CodePen window.
 
 If you did not complete or get to the solution for Activity 1, please use: [https://codepen.io/edwright75/pen/MWrxVmZ](https://codepen.io/edwright75/pen/MWrxVmZ)
 
@@ -104,7 +104,7 @@ Your completed code (if you have used the values supplied) should look like:
 
 JavaScript is the beating heart of any interactive web page.  In this activity we will implement some JavaScript code to make the game play.
 
-You will have 20 minutes to complete this with your pair partner.  You may continue from the previous CodePen window.
+We recommend around 20-25 minutes to complete this activity.  You may continue from the previous CodePen window.
 
 If you did not complete or get to the solution for Activity 2, please use: [https://codepen.io/edwright75/pen/ExoMRrG](https://codepen.io/edwright75/pen/ExoMRrG).
 
